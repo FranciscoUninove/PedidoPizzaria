@@ -2,10 +2,10 @@
 
 <h1>Pizzaria: Pizza Alegria</h1>
 
-<p>Versao: 002
-Operador:
+<p>Versao: 002</p>
+<p>Operador:</p>
 
-Telefone:
-Cliente:
-CPF:
-E-mail:</p>
+<p>Telefone:</p>
+<p>Cliente:</p>
+<p>CPF:</p>
+<p>E-mail:</p>
