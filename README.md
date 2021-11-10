@@ -9,3 +9,5 @@
 <p>Cliente:</p>
 <p>CPF:</p>
 <p>E-mail:</p>
+
+<p>Aceita participar de promoções?: (  ) Sim   Não(  )</p>
