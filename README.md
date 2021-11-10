@@ -1,6 +1,6 @@
 # PedidoPizzaria
 
-<h1>Pizzaria: Pizza Alegria</h1>
+<title>Pizzaria: Pizza Alegria</title>
 
 <p>Versao: 002</p>
 <p>Operador:</p>
