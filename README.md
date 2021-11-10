@@ -11,3 +11,5 @@
 <p>Cliente:</p>
 <p>CPF:</p>
 <p>E-mail:</p>
+  
+  <h3>Deseja participar de promoções?: (  ) Sim   ( ) Não
