@@ -4,7 +4,7 @@
 
 <h2>Pizzaria: Pizzaria Alegria<h2>
 
-<p>Versao: 002</p>
+<p>Versao: 003</p>
 <p>Operador:</p>
 
 <p>Telefone:</p>
