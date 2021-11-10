@@ -1,8 +1,8 @@
 # PedidoPizzaria
 
-<b>Controle de Vendas</b>
+<h1>Controle de Vendas</h1>
 
-<h1>Pizzaria: Pizzaria Alegria<h1>
+<h2>Pizzaria: Pizzaria Alegria<h2>
 
 <p>Versão:001</p>
 <p>Operador:</p>
