@@ -1,8 +1,8 @@
 # PedidoPizzaria
 
-Pizzaria: Pizzaria Alegre
-Versao: 01
+<h1>Pizzaria: Pizzaria Alegre</h>
+<p>Versao: 01</p>
 Operador
 
 Telefone:
-Cliente:
+Cliente:</p>
